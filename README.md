@@ -8,3 +8,7 @@ Pyqt, Beautiful soup, scikit-learn
 Linux
 
 # Example
+![first page](https://github.com/SuryanshTiwari/Tweet-recommender-system/blob/master/Screenshot%20from%202016-12-23%2016-04-18.png?raw=true "first page")
+
+
+![second page](https://github.com/SuryanshTiwari/Tweet-recommender-system/blob/master/Screenshot%20from%202016-12-23%2016-05-23.png?raw=true "second page")
